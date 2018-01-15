@@ -1,0 +1,15 @@
+"E:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"E:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armlmiftdi.dll" 
+
+"C:\Users\ecalfonso\Documents\IAR IDE Projects\project2\Debug\Exe\project.out" 
+
+--plugin "E:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "E:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+--flash_loader "E:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\TexasInstruments\FlashTC4_E6_o.board" 
+
+
+
+
